@@ -1,0 +1,56 @@
+body
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-image: url(magic-waves.jpg);
+}
+
+.header
+{
+    font-size:30px;
+    margin-top:400px;
+    width:600px;
+    padding:50px;
+}
+
+hr{
+   border-width:3px;
+}
+
+.next,.next2,.next3
+{
+    font-size:25px;
+}
+
+#one
+{
+    width:250px;
+    height:250px;
+    border:solid black 3px;
+
+}
+
+.result1
+{
+    font-size:30px;
+    margin-top:200px;
+    width:600px;
+    padding:50px;
+
+}
+
+.conc
+{
+    box-shadow: 5px 10px purple;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    line-height: 2.5;
+    text-align: center;
+    background-color: slategray;
+    color:white;
+    width:100%;
+    font-size:20px;
+}
